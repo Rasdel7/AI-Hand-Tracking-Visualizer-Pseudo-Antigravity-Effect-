@@ -1,8 +1,8 @@
 # AI-Hand-Tracking-Visualizer-Pseudo-Antigravity-Effect-
 
-## An interactive web-based project that uses hand tracking and 3D graphics to create real-time visual effects that respond to your hand movements.
+ An interactive web-based project that uses hand tracking and 3D graphics to create real-time visual effects that respond to your hand movements.
 
-## This project simulates a futuristic “energy manipulation” or “antigravity-like” experience using computer vision and WebGL — purely visual, no real physics manipulation involved.
+ This project simulates a futuristic “energy manipulation” or “antigravity-like” experience using computer vision and WebGL — purely visual, no real physics manipulation involved.
 
 ⸻
 
